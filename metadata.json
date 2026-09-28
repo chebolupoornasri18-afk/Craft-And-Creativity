@@ -1,0 +1,6 @@
+{
+  "name": "CraftAura - Handmade Crafts & Artisan Goods",
+  "description": "An artisanal marketplace celebrating handcrafted goods, pottery, jewelry, crochet, home decor, and organic crafts by independent local makers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
